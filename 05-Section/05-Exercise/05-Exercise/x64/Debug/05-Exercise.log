@@ -1,0 +1,3 @@
+﻿  05-Exercise.cpp
+C:\github\udemy-c-plus-plus\05-Section\05-Exercise\05-Exercise\05-Exercise.cpp(20,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  05-Exercise.vcxproj -> C:\github\udemy-c-plus-plus\05-Section\05-Exercise\x64\Debug\05-Exercise.exe
