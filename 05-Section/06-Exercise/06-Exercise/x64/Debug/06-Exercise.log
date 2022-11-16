@@ -1,0 +1,4 @@
+﻿  06-Exercise.cpp
+C:\github\udemy-c-plus-plus\05-Section\06-Exercise\06-Exercise\06-Exercise.cpp(11,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\github\udemy-c-plus-plus\05-Section\06-Exercise\06-Exercise\06-Exercise.cpp(19,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  06-Exercise.vcxproj -> C:\github\udemy-c-plus-plus\05-Section\06-Exercise\x64\Debug\06-Exercise.exe
