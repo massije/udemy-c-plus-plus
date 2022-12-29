@@ -1,0 +1,5 @@
+﻿  09-Exercise.cpp
+C:\github\udemy-c-plus-plus\06-Section\09-Exercise\09-Exercise\09-Exercise\09-Exercise.cpp(16,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\github\udemy-c-plus-plus\06-Section\09-Exercise\09-Exercise\09-Exercise\09-Exercise.cpp(20,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\github\udemy-c-plus-plus\06-Section\09-Exercise\09-Exercise\09-Exercise\09-Exercise.cpp(24,15): warning C4305: '=': truncation from 'double' to 'float'
+  09-Exercise.vcxproj -> C:\github\udemy-c-plus-plus\06-Section\09-Exercise\09-Exercise\x64\Debug\09-Exercise.exe
