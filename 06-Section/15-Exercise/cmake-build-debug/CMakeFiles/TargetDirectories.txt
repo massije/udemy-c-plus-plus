@@ -1,0 +1,3 @@
+C:/github/udemy-c-plus-plus/06-Section/15-Exercise/cmake-build-debug/CMakeFiles/15_Exercise.dir
+C:/github/udemy-c-plus-plus/06-Section/15-Exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/github/udemy-c-plus-plus/06-Section/15-Exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
